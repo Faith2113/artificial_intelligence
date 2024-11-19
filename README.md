@@ -1,6 +1,6 @@
-#Gustavo Aragão Guedes RA:10376534
-#Gustavo Fernandes Costa RA:10390377
-#Julia Rampani RA:10395600
+<p> </p>Gustavo Aragão Guedes RA:10376534 <br>
+<p> </p>Gustavo Fernandes Costa RA:10390377 <br>
+<p> </p>Júlia Rampani RA:10395600 <br>
 
 Este script coleta artigos da Wikipedia por categorias, pré-processa o texto e treina um modelo de aprendizado para classificar os artigos em suas respectivas categorias.
 
