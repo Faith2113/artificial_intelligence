@@ -4,18 +4,18 @@
 
 <p> </p>Este script coleta artigos da Wikipedia por categorias, pré-processa o texto e treina um modelo de aprendizado para classificar os artigos em suas respectivas categorias. <br>
 
-<p> Requisitos: <br>
-Python 3.10 ou superior (versões anteriores podem não funcionar)
-pip 24.1.2 </p>
+<p> </p>Requisitos: <br>
+<p> </p>Python 3.10 ou superior (versões anteriores podem não funcionar) <br>
+<p> </p>pip 24.1.2 </p>
 
-<p>Bibliotecas: <br>
--requests
--pandas
--numpy
--tensorflow
--scikit-learn
--matplotlib
--seaborn </p>
+<p> </p>Bibliotecas: <br>
+<p> </p>-requests <br>
+<p> </p>-pandas <br>
+<p> </p>-numpy <br>
+<p> </p>-tensorflow <br>
+<p> </p>-scikit-learn <br>
+<p> </p>-matplotlib <br>
+<p> </p>-seaborn <br>
 
 <p> </p>Mude a url da wikipedia conforme a necessidade, por padrão, "https://en.wikipedia.org/w/api.php" <br>
 
