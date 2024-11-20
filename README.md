@@ -24,7 +24,8 @@
 <p>No código, edite a lista "categories" para incluir as categorias de interesse. Por padrão, as categorias são: <br>
 categories = ["Science", "History", "Technology", "Art", "Sports", "Literature", "Movies", "Music"] </p>
 
-<p> </p>Após isso, é só executar que irá aparecer a quantidade de artigos por categoria selecionada sendo positivos e negativos. <br>
+<p> </p>Após isso, é só executar que irá aparecer a quantidade de artigos por categoria selecionada sendo verdadeiros, que é a quantidade de artigos que realmente pertencem a uma categoria específica no conjunto de dados, 
+e corretos, que é quantidade de artigos que foram corretamente classificados pelo modelo na categoria correspondente. <br>
 
 <p> </p>Logo abaixo irá aparecer somente os verdadeiros. <br>
 
