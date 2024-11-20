@@ -32,3 +32,5 @@ e corretos, que é quantidade de artigos que foram corretamente classificados pe
 <p> </p>Será apresentado 2 gráficos, um contendo os acertos e o outro contendo os erros. <br>
 
 <p> </p>Após isso será mostrado uma matriz de confusão com os dados. <br>
+
+<p> </p>Link do vídeo no Youtube: https://youtu.be/b60KA208mCQ <br>
