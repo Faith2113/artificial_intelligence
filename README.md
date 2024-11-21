@@ -2,6 +2,8 @@
 <p> </p>Gustavo Fernandes Costa RA:10390377 <br>
 <p> </p>Júlia Rampani RA:10395600 <br>
 
+<p> </p>Link do vídeo no Youtube: https://youtu.be/b60KA208mCQ <br>
+
 <p> </p>Este script coleta artigos da Wikipedia por categorias, pré-processa o texto e treina um modelo de aprendizado para classificar os artigos em suas respectivas categorias. <br>
 
 <p> </p>Requisitos: <br>
@@ -33,4 +35,4 @@ e corretos, que é quantidade de artigos que foram corretamente classificados pe
 
 <p> </p>Após isso será mostrado uma matriz de confusão com os dados. <br>
 
-<p> </p>Link do vídeo no Youtube: https://youtu.be/b60KA208mCQ <br>
+
